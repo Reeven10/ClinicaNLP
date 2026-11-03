@@ -1,0 +1,29 @@
+Doctor: Good morning, Mr. Bennett. Please have a seat. I've reviewed your referral from primary care. How have you been feeling over the last couple of weeks?
+
+Patient: Good morning, Dr. Vance. Honestly, I've been quite worried. Over the past two to three weeks, whenever I walk up the stairs at my office or rake leaves in the garden, I feel this sudden tightness and dull pressure right across the center of my chest. It almost feels like a heavy weight pressing down. And I get very short of breath, gasping for air.
+
+Doctor: I see. That shortness of breath—or what we refer to clinically as exertional dyspnea—is very important to note. When this retrosternal chest tightness occurs, does it radiate anywhere, like into your jaw, your neck, or down your left arm?
+
+Patient: Yes, actually. Two days ago, it radiated slightly into my left shoulder and inner arm. It lasted about five minutes, and then once I sat down and rested quietly, the squeezing sensation gradually subsided. But my father had a severe myocardial infarction—a heart attack—at age 58, and that has been causing me tremendous anxiety. I can barely sleep at night because of the palpitations.
+
+Doctor: That family history is crucial, and your anxiety is completely understandable. We are going to evaluate this thoroughly and keep you safe. Let's look at your vitals today. The nurse recorded your blood pressure at 148/92 mmHg, which indicates stage 2 hypertension. Your heart rate is 82 beats per minute, regular rhythm, and your oxygen saturation is excellent at 97% on room air. 
+
+Patient: Is 148/92 very dangerous? I haven't been checking it regularly at home.
+
+Doctor: It is elevated, but manageable with proper medical therapy. I examined your heart sounds and lungs just now: your lungs are clear with no pulmonary rales, and heart sounds show normal S1 and S2 with no murmurs or peripheral edema in your lower ankles. However, given your exertional angina symptoms and hypertension, we must be proactive. 
+
+Patient: What is the treatment plan, doctor? Do I need surgery immediately?
+
+Doctor: No, we will start with conservative medical management and diagnostic imaging. First, I am prescribing Lisinopril 20 milligrams once daily in the morning to lower your blood pressure and protect your kidneys. Second, I am starting Metoprolol succinate 25 milligrams daily, which is a beta-blocker that reduces cardiac workload and prevents ischemia. Third, for immediate safety, I am giving you a prescription for sublingual Nitroglycerin 0.4 milligrams tablets. If you experience that acute chest pressure again, dissolve one tablet under your tongue. If the pain does not resolve within five minutes, you must call emergency medical services (911) immediately.
+
+Patient: Understood. One Nitroglycerin under the tongue, and 911 if not resolved in five minutes.
+
+Doctor: Exactly. Now for testing: we will perform a 12-lead electrocardiogram (ECG) right now in the clinic. Then, I am scheduling you for an outpatient exercise stress echocardiogram next Thursday morning to visualize blood flow and wall motion under exertion. We also need blood work: a fasting lipid panel to measure LDL cholesterol, an HbA1c to screen for diabetes, and high-sensitivity troponin levels.
+
+Patient: Okay, doctor. Should I stop exercising completely until the test?
+
+Doctor: Avoid heavy lifting, sprinting, and strenuous yard work for now. Gentle flat walking for 15 to 20 minutes is fine if you stay symptom-free. Also, please restrict your dietary sodium to under 2,000 milligrams per day. Don't forget to take your Lisinopril every morning without skipping doses.
+
+Patient: Thank you so much, Dr. Vance. Having this clear roadmap relieves a lot of my panic.
+
+Doctor: You are very welcome, Marcus. Our team will guide you through every step. I will see you back in the clinic right after your stress echo next Friday for a comprehensive review. Take care.

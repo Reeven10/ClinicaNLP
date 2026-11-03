@@ -1,0 +1,33 @@
+Doctor: Good afternoon, Ms. Gomez. It is good to see you. How have your energy levels and overall health been recently?
+
+Patient: Good afternoon, Dr. Rivera. Honestly, I have felt completely exhausted for the past two months. No matter how much sleep I get, I wake up tired. And I have developed this insatiable, persistent thirst—polydipsia, I think it's called. I am drinking five to six large bottles of water every single day. Consequently, I have frequent nighttime urination, waking up three or four times every night to use the restroom.
+
+Doctor: That triad of extreme fatigue, polydipsia, and polyuria is very characteristic of glycemic imbalance. Have you also noticed any blurred vision, slow-healing wounds, or sensations in your hands and feet?
+
+Patient: Yes, doctor. Especially in both my feet, there is this strange tingling numbness, like pins and needles. It feels like my toes are constantly asleep. It worries me a lot because my grandmother had diabetic neuropathy and suffered foot complications.
+
+Doctor: Thank you for sharing that. Peripheral neuropathy is a known complication of chronic hyperglycemia, but when caught early, we can prevent progression. Let's look at your laboratory work from yesterday. Your fasting plasma glucose was 168 milligrams per deciliter, and your Glycated Hemoglobin—or HbA1c—is 8.4%. The normal target for HbA1c is below 5.7%, and diabetes is diagnosed at 6.5% or higher.
+
+Patient: So 8.4% confirms that I have Type 2 Diabetes?
+
+Doctor: Yes, Elena. You have Type 2 Diabetes Mellitus with mild early peripheral neuropathy. However, this is an entirely manageable condition. With a clear pharmacological regimen and targeted nutritional adjustments, we will get your HbA1c down below 7.0%.
+
+Patient: What medications will I need? Will I have to take daily insulin injections?
+
+Doctor: Not at this stage. We will start with first-line oral anti-hyperglycemic therapy. I am prescribing Metformin hydrochloride 500 milligrams, taken by mouth twice daily with breakfast and dinner. Taking it with food helps minimize any gastrointestinal discomfort like nausea. After three weeks, if you tolerate it well, we may titrate the dosage up to 1,000 milligrams twice daily.
+
+Patient: That sounds manageable. What about the tingling in my feet?
+
+Doctor: For nerve support, I recommend Alpha-lipoic acid 600 milligrams daily and a high-potency Vitamin B12 supplement, as Metformin can occasionally reduce B12 absorption over time. If neuropathic pain persists, we can evaluate a low dose of Gabapentin.
+
+Patient: How often should I test my blood sugar levels at home?
+
+Doctor: You must check your blood glucose twice daily using the fingerstick glucometer: once in the morning before breakfast for fasting readings, and once two hours after dinner. Maintain a logbook of your values. If your fasting glucose ever spikes above 250 mg/dL or drops below 70 mg/dL causing hypoglycemia symptoms like tremors and cold sweats, contact our on-call nurse immediately.
+
+Patient: Understood. Fasting check in the morning, and postprandial two hours after dinner. What about my diet?
+
+Doctor: You need to consult with our registered clinical dietitian on Monday. Reduce refined carbohydrates, avoid sweetened soda and fruit juices, and increase soluble dietary fiber. Also, schedule an annual diabetic dilated funduscopic eye exam with ophthalmology to protect your retina.
+
+Patient: Thank you, Dr. Rivera. This step-by-step guidance gives me a lot of reassurance.
+
+Doctor: You have a great attitude, Elena. Remember to bring your glucose log to our follow-up visit in six weeks, where we will recheck your vitals, microalbuminuria, and kidney function. Have a wonderful weekend.

@@ -1,0 +1,46 @@
+HOSPITAL DISCHARGE SUMMARY & CLINICAL COURSE REPORT
+
+PATIENT NAME: Robert M. Chen
+MEDICAL RECORD NUMBER: MRN-894102-C
+DATE OF ADMISSION: October 21, 2026
+DATE OF DISCHARGE: October 26, 2026
+ATTENDING PHYSICIAN: Dr. Alistair Vance, MD (Pulmonary & Critical Care)
+
+PRIMARY DISCHARGE DIAGNOSES:
+1. Community-Acquired Bacterial Pneumonia, Right Lower Lobe
+2. Acute Exacerbation of Chronic Obstructive Pulmonary Disease (COPD)
+3. Moderate Hypoxemic Respiratory Distress (Resolved)
+
+SECONDARY DIAGNOSES & COMORBIDITIES:
+1. Chronic Atrial Fibrillation (Rate controlled on Apixaban)
+2. Essential Arterial Hypertension
+3. Hyperlipidemia
+
+HOSPITAL COURSE & CLINICAL SUMMARY:
+The patient is a 62-year-old male who presented to the emergency department with a 4-day history of productive cough with purulent yellow-green sputum, fever peaking at 38.9°C (102°F), pleuritic right-sided chest pain, and severe exertional dyspnea. Initial room air arterial oxygen saturation was 88%, which corrected to 94% on 3 liters nasal cannula oxygen. 
+
+Chest radiography and thoracic CT revealed right lower lobe alveolar consolidation and air bronchograms consistent with lobar pneumonia. Initial laboratory evaluation demonstrated leukocytosis with white blood cell count of 15,800/mcL and elevated C-reactive protein (CRP) of 84 mg/L. Blood and sputum cultures were collected.
+
+The patient was admitted to the inpatient medical ward and started on empiric intravenous antibiotic therapy consisting of Ceftriaxone 1 gram IV every 24 hours plus Azithromycin 500 mg IV every 24 hours. Bronchodilator therapy with nebulized Albuterol and Ipratropium bromide was administered every 6 hours. Systemic corticosteroids with oral Prednisone 40 mg daily were given for 5 days for COPD exacerbation.
+
+Over 96 hours, the patient exhibited marked clinical improvement. Fever subsided by hospital day 3, leukocytosis trended down to 7,200/mcL, and supplemental oxygen was successfully weaned to room air with resting SpO2 stable at 95%. Sputum gram stain showed gram-positive diplococci consistent with Streptococcus pneumoniae, sensitive to fluoroquinolones.
+
+DISCHARGE MEDICATIONS:
+1. Levofloxacin (Levaquin) 500 mg oral tablet: Take 1 tablet by mouth once daily for 5 days to complete antibiotic course.
+2. Symbicort (Budesonide/Formoterol) 160/4.5 mcg inhaler: Inhale 2 puffs twice daily morning and evening. Rinse mouth after use.
+3. Albuterol Sulfate (Ventolin HFA) 90 mcg inhaler: Inhale 1 to 2 puffs every 4 to 6 hours as needed for sudden wheezing or shortness of breath.
+4. Apixaban (Eliquis) 5 mg tablet: Take 1 tablet by mouth twice daily for stroke prophylaxis in atrial fibrillation.
+5. Lisinopril 10 mg tablet: Take 1 tablet once daily in the morning for hypertension.
+
+CRITICAL RED FLAGS & EMERGENCY WARNING INSTRUCTIONS:
+The patient must seek immediate emergency medical care or call 911 if they experience:
+- Temperature spiking above 38.3°C (101°F) or severe shaking chills.
+- Acute recurrence of severe dyspnea, gasping for breath, or resting SpO2 falling below 90%.
+- Hemoptysis (coughing up blood) or sudden sharp chest pain upon inspiration.
+- Signs of drug reaction including facial swelling, urticarial rash, or severe diarrhea.
+
+POST-DISCHARGE FOLLOW-UP & ACTION PLAN:
+1. Primary Care Follow-up: Visit Dr. Vance in the outpatient pulmonary clinic in 10 to 14 days.
+2. Repeat Chest X-Ray: Schedule follow-up chest radiograph in 6 weeks to confirm complete radiological resolution of the right lower lobe consolidation.
+3. Pulmonary Rehabilitation: Referral initiated for home exercise and spirometry compliance.
+4. Immunizations: Administer pneumococcal conjugate vaccine (Prevnar 20) and annual influenza vaccine at 6-week outpatient checkup.

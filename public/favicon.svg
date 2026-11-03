@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="50%" stop-color="#1e1b4b" />
+      <stop offset="100%" stop-color="#090d16" />
+    </linearGradient>
+    <linearGradient id="brandGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff0056" />
+      <stop offset="50%" stop-color="#a855f7" />
+      <stop offset="100%" stop-color="#00d2ff" />
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff0056" />
+      <stop offset="100%" stop-color="#00d2ff" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Background squircle -->
+  <rect x="24" y="24" width="464" height="464" rx="116" fill="url(#bgGrad)" stroke="rgba(255,255,255,0.14)" stroke-width="6" />
+
+  <!-- Outer Neural Ring C -->
+  <path d="M 360 160 C 330 110, 260 90, 200 110 C 130 135, 95 200, 95 256 C 95 312, 130 377, 200 402 C 260 422, 330 402, 360 352" 
+        fill="none" 
+        stroke="url(#brandGrad)" 
+        stroke-width="36" 
+        stroke-linecap="round" 
+        filter="url(#glow)"/>
+
+  <!-- Neural Synapse / Text Data Wave Lines -->
+  <!-- Line 1 -->
+  <line x1="200" y1="205" x2="340" y2="205" stroke="url(#textGrad)" stroke-width="22" stroke-linecap="round" />
+  <circle cx="370" cy="205" r="10" fill="#00d2ff" />
+
+  <!-- Line 2 -->
+  <line x1="185" y1="256" x2="310" y2="256" stroke="#ffffff" stroke-width="20" stroke-linecap="round" opacity="0.95" />
+  <circle cx="340" cy="256" r="10" fill="#a855f7" />
+
+  <!-- Line 3 -->
+  <line x1="200" y1="307" x2="280" y2="307" stroke="url(#textGrad)" stroke-width="22" stroke-linecap="round" />
+  <circle cx="310" cy="307" r="10" fill="#ff0056" />
+
+  <!-- Synaptic Spark Nodes -->
+  <circle cx="360" cy="160" r="16" fill="#ff0056" />
+  <circle cx="360" cy="352" r="16" fill="#00d2ff" />
+</svg>

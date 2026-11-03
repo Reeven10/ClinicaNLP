@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <linearGradient id="clinicaBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#042f2e" />
+      <stop offset="50%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#021c1e" />
+    </linearGradient>
+    <linearGradient id="cyanTealGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06b6d4" />
+      <stop offset="50%" stop-color="#14b8a6" />
+      <stop offset="100%" stop-color="#10b981" />
+    </linearGradient>
+    <linearGradient id="pulseGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#2dd4bf" />
+      <stop offset="100%" stop-color="#34d399" />
+    </linearGradient>
+    <filter id="medGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <rect x="24" y="24" width="464" height="464" rx="116" fill="url(#clinicaBg)" stroke="rgba(20, 184, 166, 0.3)" stroke-width="6" />
+
+  <path d="M 226 120 L 286 120 L 286 226 L 392 226 L 392 286 L 286 286 L 286 392 L 226 392 L 226 286 L 120 286 L 120 226 L 226 226 Z" 
+        fill="rgba(20, 184, 166, 0.12)" 
+        stroke="rgba(45, 212, 191, 0.25)" 
+        stroke-width="3" 
+        stroke-linejoin="round"/>
+
+  <path d="M 80 256 L 150 256 L 175 220 L 205 300 L 235 155 L 270 360 L 305 210 L 330 280 L 355 256 L 432 256" 
+        fill="none" 
+        stroke="url(#pulseGrad)" 
+        stroke-width="18" 
+        stroke-linecap="round" 
+        stroke-linejoin="round"
+        filter="url(#medGlow)"/>
+
+  <circle cx="235" cy="155" r="14" fill="#38bdf8" filter="url(#medGlow)" />
+  <circle cx="270" cy="360" r="14" fill="#10b981" filter="url(#medGlow)" />
+  <circle cx="305" cy="210" r="11" fill="#2dd4bf" filter="url(#medGlow)" />
+  <circle cx="175" cy="220" r="10" fill="#38bdf8" />
+  <circle cx="205" cy="300" r="10" fill="#14b8a6" />
+
+  <circle cx="256" cy="256" r="170" fill="none" stroke="rgba(45, 212, 191, 0.2)" stroke-width="3" stroke-dasharray="12 16" />
+</svg>
